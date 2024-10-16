@@ -1,0 +1,14 @@
+<HTML>
+<HEAD> <TITLE> Restaurant </TITLE>
+</HEAD>
+<BODY>
+<B> Menue </B>
+<HR>
+<UL>
+<LI> Chicken biryani </LI>
+<LI> Fried rice </LI>
+<LI> Mutton biryani </LI>
+<LI> Gobi manchuriyan </LI>
+</UL>
+</HEAD>
+</HTML>
